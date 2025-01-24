@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Pinterest clone",
+    "imageSrc": "projects/download.png",
+    "description": "This is exact replica of Pinterest App where we can add,delete,edit Posts and many more...",
+    "skills": ["React", "Express", "Node","Mongodb"],
+    "demo": "https://www.example.com"  },
+  {
+    "title": "Javascript Projects",
+    "imageSrc": "projects/jsp.jpg",
+    "description": "Various javascript projects, including calculator, cricket game, etc",
+    "skills": ["javascript"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "React Projects",
+    "imageSrc": "projects/reactt.jpg",
+    "description": "Various React Projects including Login Database, to do app, tic tac toe, etc",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com"  }
+]

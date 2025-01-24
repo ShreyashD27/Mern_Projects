@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "SSP Technology",
+    "startDate": "Oct, 2023",
+    "endDate": "July, 2024",
+    "experiences": ["Developed various Java Fullstack Projects", "Worked on Backend+Frontend"],
+    "imageSrc": "history/ssp.jpg"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Numetry",
+    "startDate": "Jan, 2025",
+    "endDate": "Ongoing",
+    "experiences": ["Working on various MERN Stack Projects", "Exploring deep inside MERN stack developement"],
+    "imageSrc": "history/numetry.jpg"
+  }
+ 
+]
