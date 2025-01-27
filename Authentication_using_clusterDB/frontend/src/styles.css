@@ -1,0 +1,97 @@
+/* styles.css */
+
+/* Global styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #746584, #2575fc);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+}
+
+/* Container styles */
+.container {
+  background: #ffffff;
+  border-radius: 50px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  padding: 10rem; /* Increased padding */
+  width: 100%;
+  max-width: 500px; /* Increased width */
+  text-align: center;
+  color: #333;
+}
+
+/* Heading styles */
+h1 {
+  font-size: 2.5rem; /* Slightly larger font size */
+  margin-bottom: 2rem;
+  color: #6a11cb;
+}
+
+/* Form styles */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Input field styles */
+input {
+  margin-bottom: 1.5rem; /* Increased spacing between fields */
+  padding: 1rem; /* Increased padding for larger input fields */
+  border: 1px solid #ddd;
+  border-radius: 8px; /* Slightly rounded corners */
+  font-size: 1.1rem;
+}
+
+input:focus {
+  border-color: #6a11cb;
+  outline: none;
+  box-shadow: 0 0 6px rgba(106, 17, 203, 0.5);
+}
+
+/* Button styles */
+button {
+  padding: 1rem; /* Increased button size */
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #2575fc, #6a11cb);
+}
+
+/* Link styles */
+a {
+  color: #6a11cb;
+  text-decoration: none;
+  margin-top: 1.5rem; /* Increased spacing above links */
+  display: inline-block;
+  font-size: 1rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Input field styles */
+input, textarea {
+  margin-bottom: 1.5rem; /* Increased spacing between fields */
+  padding: 1rem; /* Increased padding for larger input fields */
+  border: 1px solid #ddd;
+  border-radius: 8px; /* Slightly rounded corners */
+  font-size: 1.1rem;
+}
+
+/* Textarea for address */
+textarea {
+  height: 30px; /* Set height for the address field */
+}
